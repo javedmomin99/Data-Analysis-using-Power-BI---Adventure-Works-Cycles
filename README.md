@@ -4,3 +4,7 @@ Designed and delivered a professional-quality, end-to-end business intelligence 
 Power BI is quickly becoming the world's most powerful self-service business intelligence platform, and an absolutely essential tool for data professionals and beginners alike. 
 
 With Power BI, you can connect to hundreds of data sources, build complex relational models using simple and intuitive tools, and design stunning, interactive dashboards from scratch -- all for free.
+
+Live Interaction with Dashboard (Power BI) : https://github.com/javedmomin99/Data-Analysis-using-Power-BI---Adventure-Works
+
+Video Link : https://photos.app.goo.gl/W2uDbSQpY5c9wfwU9
