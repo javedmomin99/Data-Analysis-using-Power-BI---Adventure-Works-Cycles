@@ -8,5 +8,3 @@ With Power BI, you can connect to hundreds of data sources, build complex relati
 Live Interaction with Dashboard (NovyPro) : https://www.novypro.com/project/adventure-works-cycle
 
 Live Interaction with Dashboard (Power BI) : https://app.powerbi.com/groups/me/reports/6eaa2b06-5ac5-4c2c-896d-43e356f8a76a/ReportSection
-
-Video Link : https://photos.app.goo.gl/W2uDbSQpY5c9wfwU9
